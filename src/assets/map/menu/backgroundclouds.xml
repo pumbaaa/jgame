@@ -1,0 +1,2251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<room>
+  <information>
+    <name>backgroundclouds</name>
+    <width>20</width>
+    <height>16</height>
+    <info>a new room</info>
+  </information>
+  <tiles>
+    <tile id="0" x="0" y="0">
+      <x>0</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="1" x="0" y="1">
+      <x>0</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="2" x="0" y="2">
+      <x>0</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="3" x="0" y="3">
+      <x>0</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="4" x="0" y="4">
+      <x>0</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="5" x="0" y="5">
+      <x>0</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="6" x="0" y="6">
+      <x>0</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="7" x="0" y="7">
+      <x>0</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="8" x="0" y="8">
+      <x>0</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="9" x="0" y="9">
+      <x>0</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="10" x="0" y="10">
+      <x>0</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="11" x="0" y="11">
+      <x>0</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="12" x="0" y="12">
+      <x>0</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="13" x="0" y="13">
+      <x>0</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="14" x="0" y="14">
+      <x>0</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="15" x="0" y="15">
+      <x>0</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="16" x="1" y="0">
+      <x>1</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="17" x="1" y="1">
+      <x>1</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="18" x="1" y="2">
+      <x>1</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="19" x="1" y="3">
+      <x>1</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="20" x="1" y="4">
+      <x>1</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="21" x="1" y="5">
+      <x>1</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="22" x="1" y="6">
+      <x>1</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="23" x="1" y="7">
+      <x>1</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="24" x="1" y="8">
+      <x>1</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="25" x="1" y="9">
+      <x>1</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="26" x="1" y="10">
+      <x>1</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="27" x="1" y="11">
+      <x>1</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="28" x="1" y="12">
+      <x>1</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="29" x="1" y="13">
+      <x>1</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="30" x="1" y="14">
+      <x>1</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="31" x="1" y="15">
+      <x>1</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="32" x="2" y="0">
+      <x>2</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="33" x="2" y="1">
+      <x>2</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="34" x="2" y="2">
+      <x>2</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="35" x="2" y="3">
+      <x>2</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="36" x="2" y="4">
+      <x>2</x>
+      <y>4</y>
+      <imageid>256</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="37" x="2" y="5">
+      <x>2</x>
+      <y>5</y>
+      <imageid>288</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="38" x="2" y="6">
+      <x>2</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="39" x="2" y="7">
+      <x>2</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="40" x="2" y="8">
+      <x>2</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="41" x="2" y="9">
+      <x>2</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="42" x="2" y="10">
+      <x>2</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="43" x="2" y="11">
+      <x>2</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="44" x="2" y="12">
+      <x>2</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="45" x="2" y="13">
+      <x>2</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="46" x="2" y="14">
+      <x>2</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="47" x="2" y="15">
+      <x>2</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="48" x="3" y="0">
+      <x>3</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="49" x="3" y="1">
+      <x>3</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="50" x="3" y="2">
+      <x>3</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="51" x="3" y="3">
+      <x>3</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="52" x="3" y="4">
+      <x>3</x>
+      <y>4</y>
+      <imageid>257</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="53" x="3" y="5">
+      <x>3</x>
+      <y>5</y>
+      <imageid>289</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="54" x="3" y="6">
+      <x>3</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="55" x="3" y="7">
+      <x>3</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="56" x="3" y="8">
+      <x>3</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="57" x="3" y="9">
+      <x>3</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="58" x="3" y="10">
+      <x>3</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="59" x="3" y="11">
+      <x>3</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="60" x="3" y="12">
+      <x>3</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="61" x="3" y="13">
+      <x>3</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="62" x="3" y="14">
+      <x>3</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="63" x="3" y="15">
+      <x>3</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="64" x="4" y="0">
+      <x>4</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="65" x="4" y="1">
+      <x>4</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="66" x="4" y="2">
+      <x>4</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="67" x="4" y="3">
+      <x>4</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="68" x="4" y="4">
+      <x>4</x>
+      <y>4</y>
+      <imageid>258</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="69" x="4" y="5">
+      <x>4</x>
+      <y>5</y>
+      <imageid>290</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="70" x="4" y="6">
+      <x>4</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="71" x="4" y="7">
+      <x>4</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="72" x="4" y="8">
+      <x>4</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="73" x="4" y="9">
+      <x>4</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="74" x="4" y="10">
+      <x>4</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="75" x="4" y="11">
+      <x>4</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="76" x="4" y="12">
+      <x>4</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="77" x="4" y="13">
+      <x>4</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="78" x="4" y="14">
+      <x>4</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="79" x="4" y="15">
+      <x>4</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="80" x="5" y="0">
+      <x>5</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="81" x="5" y="1">
+      <x>5</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="82" x="5" y="2">
+      <x>5</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="83" x="5" y="3">
+      <x>5</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="84" x="5" y="4">
+      <x>5</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="85" x="5" y="5">
+      <x>5</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="86" x="5" y="6">
+      <x>5</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="87" x="5" y="7">
+      <x>5</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="88" x="5" y="8">
+      <x>5</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="89" x="5" y="9">
+      <x>5</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="90" x="5" y="10">
+      <x>5</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="91" x="5" y="11">
+      <x>5</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="92" x="5" y="12">
+      <x>5</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="93" x="5" y="13">
+      <x>5</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="94" x="5" y="14">
+      <x>5</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="95" x="5" y="15">
+      <x>5</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="96" x="6" y="0">
+      <x>6</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="97" x="6" y="1">
+      <x>6</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="98" x="6" y="2">
+      <x>6</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="99" x="6" y="3">
+      <x>6</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="100" x="6" y="4">
+      <x>6</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="101" x="6" y="5">
+      <x>6</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="102" x="6" y="6">
+      <x>6</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="103" x="6" y="7">
+      <x>6</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="104" x="6" y="8">
+      <x>6</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="105" x="6" y="9">
+      <x>6</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="106" x="6" y="10">
+      <x>6</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="107" x="6" y="11">
+      <x>6</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="108" x="6" y="12">
+      <x>6</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="109" x="6" y="13">
+      <x>6</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="110" x="6" y="14">
+      <x>6</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="111" x="6" y="15">
+      <x>6</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="112" x="7" y="0">
+      <x>7</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="113" x="7" y="1">
+      <x>7</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="114" x="7" y="2">
+      <x>7</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="115" x="7" y="3">
+      <x>7</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="116" x="7" y="4">
+      <x>7</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="117" x="7" y="5">
+      <x>7</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="118" x="7" y="6">
+      <x>7</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="119" x="7" y="7">
+      <x>7</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="120" x="7" y="8">
+      <x>7</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="121" x="7" y="9">
+      <x>7</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="122" x="7" y="10">
+      <x>7</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="123" x="7" y="11">
+      <x>7</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="124" x="7" y="12">
+      <x>7</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="125" x="7" y="13">
+      <x>7</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="126" x="7" y="14">
+      <x>7</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="127" x="7" y="15">
+      <x>7</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="128" x="8" y="0">
+      <x>8</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="129" x="8" y="1">
+      <x>8</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="130" x="8" y="2">
+      <x>8</x>
+      <y>2</y>
+      <imageid>256</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="131" x="8" y="3">
+      <x>8</x>
+      <y>3</y>
+      <imageid>259</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="132" x="8" y="4">
+      <x>8</x>
+      <y>4</y>
+      <imageid>288</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="133" x="8" y="5">
+      <x>8</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="134" x="8" y="6">
+      <x>8</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="135" x="8" y="7">
+      <x>8</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="136" x="8" y="8">
+      <x>8</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="137" x="8" y="9">
+      <x>8</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="138" x="8" y="10">
+      <x>8</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="139" x="8" y="11">
+      <x>8</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="140" x="8" y="12">
+      <x>8</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="141" x="8" y="13">
+      <x>8</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="142" x="8" y="14">
+      <x>8</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="143" x="8" y="15">
+      <x>8</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="144" x="9" y="0">
+      <x>9</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="145" x="9" y="1">
+      <x>9</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="146" x="9" y="2">
+      <x>9</x>
+      <y>2</y>
+      <imageid>257</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="147" x="9" y="3">
+      <x>9</x>
+      <y>3</y>
+      <imageid>289</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="148" x="9" y="4">
+      <x>9</x>
+      <y>4</y>
+      <imageid>290</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="149" x="9" y="5">
+      <x>9</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="150" x="9" y="6">
+      <x>9</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="151" x="9" y="7">
+      <x>9</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="152" x="9" y="8">
+      <x>9</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="153" x="9" y="9">
+      <x>9</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="154" x="9" y="10">
+      <x>9</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="155" x="9" y="11">
+      <x>9</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="156" x="9" y="12">
+      <x>9</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="157" x="9" y="13">
+      <x>9</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="158" x="9" y="14">
+      <x>9</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="159" x="9" y="15">
+      <x>9</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="160" x="10" y="0">
+      <x>10</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="161" x="10" y="1">
+      <x>10</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="162" x="10" y="2">
+      <x>10</x>
+      <y>2</y>
+      <imageid>258</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="163" x="10" y="3">
+      <x>10</x>
+      <y>3</y>
+      <imageid>290</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="164" x="10" y="4">
+      <x>10</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="165" x="10" y="5">
+      <x>10</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="166" x="10" y="6">
+      <x>10</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="167" x="10" y="7">
+      <x>10</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="168" x="10" y="8">
+      <x>10</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="169" x="10" y="9">
+      <x>10</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="170" x="10" y="10">
+      <x>10</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="171" x="10" y="11">
+      <x>10</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="172" x="10" y="12">
+      <x>10</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="173" x="10" y="13">
+      <x>10</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="174" x="10" y="14">
+      <x>10</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="175" x="10" y="15">
+      <x>10</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="176" x="11" y="0">
+      <x>11</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="177" x="11" y="1">
+      <x>11</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="178" x="11" y="2">
+      <x>11</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="179" x="11" y="3">
+      <x>11</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="180" x="11" y="4">
+      <x>11</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="181" x="11" y="5">
+      <x>11</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="182" x="11" y="6">
+      <x>11</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="183" x="11" y="7">
+      <x>11</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="184" x="11" y="8">
+      <x>11</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="185" x="11" y="9">
+      <x>11</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="186" x="11" y="10">
+      <x>11</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="187" x="11" y="11">
+      <x>11</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="188" x="11" y="12">
+      <x>11</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="189" x="11" y="13">
+      <x>11</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="190" x="11" y="14">
+      <x>11</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="191" x="11" y="15">
+      <x>11</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="192" x="12" y="0">
+      <x>12</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="193" x="12" y="1">
+      <x>12</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="194" x="12" y="2">
+      <x>12</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="195" x="12" y="3">
+      <x>12</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="196" x="12" y="4">
+      <x>12</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="197" x="12" y="5">
+      <x>12</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="198" x="12" y="6">
+      <x>12</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="199" x="12" y="7">
+      <x>12</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="200" x="12" y="8">
+      <x>12</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="201" x="12" y="9">
+      <x>12</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="202" x="12" y="10">
+      <x>12</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="203" x="12" y="11">
+      <x>12</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="204" x="12" y="12">
+      <x>12</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="205" x="12" y="13">
+      <x>12</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="206" x="12" y="14">
+      <x>12</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="207" x="12" y="15">
+      <x>12</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="208" x="13" y="0">
+      <x>13</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="209" x="13" y="1">
+      <x>13</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="210" x="13" y="2">
+      <x>13</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="211" x="13" y="3">
+      <x>13</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="212" x="13" y="4">
+      <x>13</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="213" x="13" y="5">
+      <x>13</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="214" x="13" y="6">
+      <x>13</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="215" x="13" y="7">
+      <x>13</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="216" x="13" y="8">
+      <x>13</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="217" x="13" y="9">
+      <x>13</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="218" x="13" y="10">
+      <x>13</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="219" x="13" y="11">
+      <x>13</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="220" x="13" y="12">
+      <x>13</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="221" x="13" y="13">
+      <x>13</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="222" x="13" y="14">
+      <x>13</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="223" x="13" y="15">
+      <x>13</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="224" x="14" y="0">
+      <x>14</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="225" x="14" y="1">
+      <x>14</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="226" x="14" y="2">
+      <x>14</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="227" x="14" y="3">
+      <x>14</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="228" x="14" y="4">
+      <x>14</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="229" x="14" y="5">
+      <x>14</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="230" x="14" y="6">
+      <x>14</x>
+      <y>6</y>
+      <imageid>292</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="231" x="14" y="7">
+      <x>14</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="232" x="14" y="8">
+      <x>14</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="233" x="14" y="9">
+      <x>14</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="234" x="14" y="10">
+      <x>14</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="235" x="14" y="11">
+      <x>14</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="236" x="14" y="12">
+      <x>14</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="237" x="14" y="13">
+      <x>14</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="238" x="14" y="14">
+      <x>14</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="239" x="14" y="15">
+      <x>14</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="240" x="15" y="0">
+      <x>15</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="241" x="15" y="1">
+      <x>15</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="242" x="15" y="2">
+      <x>15</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="243" x="15" y="3">
+      <x>15</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="244" x="15" y="4">
+      <x>15</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="245" x="15" y="5">
+      <x>15</x>
+      <y>5</y>
+      <imageid>256</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="246" x="15" y="6">
+      <x>15</x>
+      <y>6</y>
+      <imageid>259</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="247" x="15" y="7">
+      <x>15</x>
+      <y>7</y>
+      <imageid>288</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="248" x="15" y="8">
+      <x>15</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="249" x="15" y="9">
+      <x>15</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="250" x="15" y="10">
+      <x>15</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="251" x="15" y="11">
+      <x>15</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="252" x="15" y="12">
+      <x>15</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="253" x="15" y="13">
+      <x>15</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="254" x="15" y="14">
+      <x>15</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="255" x="15" y="15">
+      <x>15</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="256" x="16" y="0">
+      <x>16</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="257" x="16" y="1">
+      <x>16</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="258" x="16" y="2">
+      <x>16</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="259" x="16" y="3">
+      <x>16</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="260" x="16" y="4">
+      <x>16</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="261" x="16" y="5">
+      <x>16</x>
+      <y>5</y>
+      <imageid>258</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="262" x="16" y="6">
+      <x>16</x>
+      <y>6</y>
+      <imageid>291</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="263" x="16" y="7">
+      <x>16</x>
+      <y>7</y>
+      <imageid>289</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="264" x="16" y="8">
+      <x>16</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="265" x="16" y="9">
+      <x>16</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="266" x="16" y="10">
+      <x>16</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="267" x="16" y="11">
+      <x>16</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="268" x="16" y="12">
+      <x>16</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="269" x="16" y="13">
+      <x>16</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="270" x="16" y="14">
+      <x>16</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="271" x="16" y="15">
+      <x>16</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="272" x="17" y="0">
+      <x>17</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="273" x="17" y="1">
+      <x>17</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="274" x="17" y="2">
+      <x>17</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="275" x="17" y="3">
+      <x>17</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="276" x="17" y="4">
+      <x>17</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="277" x="17" y="5">
+      <x>17</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="278" x="17" y="6">
+      <x>17</x>
+      <y>6</y>
+      <imageid>258</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="279" x="17" y="7">
+      <x>17</x>
+      <y>7</y>
+      <imageid>290</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="280" x="17" y="8">
+      <x>17</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="281" x="17" y="9">
+      <x>17</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="282" x="17" y="10">
+      <x>17</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="283" x="17" y="11">
+      <x>17</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="284" x="17" y="12">
+      <x>17</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="285" x="17" y="13">
+      <x>17</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="286" x="17" y="14">
+      <x>17</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="287" x="17" y="15">
+      <x>17</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="288" x="18" y="0">
+      <x>18</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="289" x="18" y="1">
+      <x>18</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="290" x="18" y="2">
+      <x>18</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="291" x="18" y="3">
+      <x>18</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="292" x="18" y="4">
+      <x>18</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="293" x="18" y="5">
+      <x>18</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="294" x="18" y="6">
+      <x>18</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="295" x="18" y="7">
+      <x>18</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="296" x="18" y="8">
+      <x>18</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="297" x="18" y="9">
+      <x>18</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="298" x="18" y="10">
+      <x>18</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="299" x="18" y="11">
+      <x>18</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="300" x="18" y="12">
+      <x>18</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="301" x="18" y="13">
+      <x>18</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="302" x="18" y="14">
+      <x>18</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="303" x="18" y="15">
+      <x>18</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="304" x="19" y="0">
+      <x>19</x>
+      <y>0</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="305" x="19" y="1">
+      <x>19</x>
+      <y>1</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="306" x="19" y="2">
+      <x>19</x>
+      <y>2</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="307" x="19" y="3">
+      <x>19</x>
+      <y>3</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="308" x="19" y="4">
+      <x>19</x>
+      <y>4</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="309" x="19" y="5">
+      <x>19</x>
+      <y>5</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="310" x="19" y="6">
+      <x>19</x>
+      <y>6</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="311" x="19" y="7">
+      <x>19</x>
+      <y>7</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="312" x="19" y="8">
+      <x>19</x>
+      <y>8</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="313" x="19" y="9">
+      <x>19</x>
+      <y>9</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="314" x="19" y="10">
+      <x>19</x>
+      <y>10</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="315" x="19" y="11">
+      <x>19</x>
+      <y>11</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="316" x="19" y="12">
+      <x>19</x>
+      <y>12</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="317" x="19" y="13">
+      <x>19</x>
+      <y>13</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="318" x="19" y="14">
+      <x>19</x>
+      <y>14</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+    <tile id="319" x="19" y="15">
+      <x>19</x>
+      <y>15</y>
+      <imageid>0</imageid>
+      <type>0</type>
+      <set>0</set>
+    </tile>
+  </tiles>
+</room>

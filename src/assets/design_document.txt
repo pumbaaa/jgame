@@ -1,0 +1,87 @@
+******************************             
+** 1. To Do
+******************************             
+
+* Collision against another mapObject
+* Map Editor
+* Designing levels
+* Adjust numbers (speed, jumping, falling etc)
+* Designing enemies
+* Designing mapObjects (hostile or not)
+* Sounds
+* Music
+* The tile graphics
+
+
+******************************             
+** 2. Source Files
+******************************             
+
+Package      Class                        Info
+
+audioPlayer
+(Static)      AudioPlayer                 Manage all the sound and music                 
+
+background
+              Background                  Class for making the backgrounds
+             
+gameState
+              GameState                   Abstract SuperClass for the different
+                                          states
+              StateMainMenu               The main menu
+              StateLevel1                 Level 1
+              GameStateManager            Manage all the states through calls to
+                                          this manager
+
+main
+              Game                        Contains the main game loop
+              OOP2016_a15eriho_uppgift6   Starting point of the application
+
+mapObject
+              Animation                   To animate a map object
+              MapObject                   Abstract super class for single map
+                                          objects
+              Player                      The player
+              Bullet                      A bullet
+              Mushroom                    An enemy
+
+settings
+              Settings                    Contains a set of constants
+      
+             
+tileManager
+(Static)      TileManager                 Manage tiles from the tile sheets
+              Tile                        Contains a BufferedImage for a single
+                                          tile
+
+tileMap
+              TileMap                     Abstract super class for the maps
+              TileInfo                    The information for a specific tile on
+                                          a map
+
+
+******************************             
+** 3. Assets
+******************************             
+             
+Assets
+> sound
+  > sfx
+    - blopp.wav
+    - woew.wav
+  > msx
+    - holm_spelar.wav
+> map
+  > menu
+    - blue_sky.tmap  
+    - clouds.tmap
+    - main_menu.tmap
+    - stone.tmap
+    - sun.tmap
+    - trees.tmap
+  > level1
+    - level1.tmap
+> sheet
+  - 32x32_16x16px.png
+
+
